@@ -286,10 +286,12 @@ footer
     height: 50px;
     border-radius: 5px;
     border: none;
+    box-shadow: 1px 1px 5px 0px rgba(46, 46, 46, 0.6);
 
     color: white;
     font-size: 18px;
     font-weight: bold;
+    
 }
 
 .submit-button:hover
